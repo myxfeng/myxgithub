@@ -6,11 +6,13 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b5a7e3-0cb0-45b5-afeb-eb0233140262" name="Default" comment="">
+    <list default="true" id="f5b5a7e3-0cb0-45b5-afeb-eb0233140262" name="Default" comment="ed2fdasd">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/expamle/com/myapplication/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/expamle/com/myapplication/MainActivity.java" />
     </list>
     <ignored path="My Application.iws" />
     <ignored path=".idea/" />
+    <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +46,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/expamle/com/myapplication/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.559055">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7660167">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,13 +57,13 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <marker date="1475072604914" expanded="true" signature="95:154" placeholder="..." />
-                <marker date="1475072604914" expanded="true" signature="108:139" placeholder="..." />
-                <marker date="1475072604914" expanded="true" signature="193:355" placeholder="..." />
-                <marker date="1475072604914" expanded="true" signature="287:355" placeholder="..." />
-                <marker date="1475072604914" expanded="true" signature="143209:143293" placeholder="..." />
+                <marker date="1475072807631" expanded="true" signature="59:144132" placeholder="..." />
+                <marker date="1475072807631" expanded="true" signature="95:154" placeholder="..." />
+                <marker date="1475072807631" expanded="true" signature="108:139" placeholder="..." />
+                <marker date="1475072807631" expanded="true" signature="193:286" placeholder="..." />
+                <marker date="1475072807631" expanded="true" signature="144037:144121" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -1822,7 +1824,7 @@
     <property name="android.sdk.path" value="E:/AndroidStudioSdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2098,11 +2100,18 @@
       <option name="number" value="Default" />
       <updated>1475070793727</updated>
     </task>
+    <task id="LOCAL-00001" summary="ed2fdasd">
+      <created>1475072713816</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1475072713816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2111,7 +2120,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.81490105" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.54481953" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2144,6 +2153,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ed2fdasd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ed2fdasd" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -2174,21 +2187,21 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <marker date="1475072604914" expanded="true" signature="95:154" placeholder="..." />
-            <marker date="1475072604914" expanded="true" signature="108:139" placeholder="..." />
-            <marker date="1475072604914" expanded="true" signature="193:355" placeholder="..." />
-            <marker date="1475072604914" expanded="true" signature="287:355" placeholder="..." />
-            <marker date="1475072604914" expanded="true" signature="143209:143293" placeholder="..." />
+            <marker date="1475072807631" expanded="true" signature="59:144132" placeholder="..." />
+            <marker date="1475072807631" expanded="true" signature="95:154" placeholder="..." />
+            <marker date="1475072807631" expanded="true" signature="108:139" placeholder="..." />
+            <marker date="1475072807631" expanded="true" signature="193:286" placeholder="..." />
+            <marker date="1475072807631" expanded="true" signature="144037:144121" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/expamle/com/myapplication/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.559055">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7660167">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
